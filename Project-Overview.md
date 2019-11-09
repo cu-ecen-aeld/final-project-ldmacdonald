@@ -6,7 +6,8 @@ TBD: Mention whether you plan to use buildroot or Yocto.
 
 # Hardware Platform
 TBD: Mention hardware platform you plan to use.  Include additional detail about how you plan to support with your build platform, including links to relevant documentation, if not in the list of currently [Supported Hardware](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki/Supported-Hardware).
-TBD: Mention the number of boards you would like to borrow from the department for your project.
+
+TBD: Mention the number and type of of boards you would like to borrow from the department for your project or if you plan to source the hardware yourself.
 
 # Open Source Projects Used
 TBD: Mention any open source project content you intend to use with the project, beyond the base platform buildroot/yocto packages already used in assignments.
@@ -25,7 +26,9 @@ We request X additional repositories for application Y and Z.
 
 # Group Overview
 TBD: Fill in this section for group projects, delete it for individual projects
+
 ## Team project members:
+
 TBD: list members.  List high level role in the project for each member
 
 # Schedule Page
