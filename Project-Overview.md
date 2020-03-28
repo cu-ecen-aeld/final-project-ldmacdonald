@@ -1,5 +1,6 @@
 # Overview
 TBD: Add your project overview, including goals and motivation.
+Include at least one block diagram showing all hardware components and interactions.
 
 # Target Build System
 TBD: Mention whether you plan to use buildroot or Yocto.
