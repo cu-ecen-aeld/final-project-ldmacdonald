@@ -19,11 +19,11 @@ TBD: Mention any open source project content you intend to use with the project,
 # Previously Discussed Content
 TBD: Mention any content covered in previous assignments, lectures, or book sections you plan to use with the project as a basis. For instance, if you plan to use the aesdsocket or aesdchar componets either partially or completely.
 
-# Shared Material
-TBD: Detail any portion of the project leveraged from other coursework or using [components from previous semesters](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki) by yourself or others.
-
 # New Content
 TBD: Mention the new content you plan to cover with your assignment, separating between items we've discussed in class already but not included in previous assignments and items we have not yet discussed in class.
+
+# Shared Material
+TBD: Detail any portion of the project leveraged from other coursework or using [components from previous semesters](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki) by yourself or others.
 
 # Source Code Organization
 TBD: Modify the content below
