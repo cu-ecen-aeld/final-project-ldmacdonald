@@ -13,8 +13,8 @@ TBD: Mention the number and type of of boards you would like to borrow from the 
 # Open Source Projects Used
 TBD: Mention any open source project content you intend to use with the project, beyond the base platform buildroot/yocto packages already used in assignments.
 
-# Previous Assignment Content
-TBD: Mention any content covered in previous assignments you plan to use with the project as a basis. For instance, if you plan to use the aesdsocket or aesdchar componets either partially or completely.
+# Previously Discussed Content
+TBD: Mention any content covered in previous assignments, lectures, or book sections you plan to use with the project as a basis. For instance, if you plan to use the aesdsocket or aesdchar componets either partially or completely.
 
 # New Content
 TBD: Mention the new content you plan to cover with your assignment, separating between items we've discussed in class already but not included in previous assignments and items we have not yet discussed in class.
