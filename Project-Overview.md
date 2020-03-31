@@ -26,9 +26,12 @@ TBD: Mention the new content you plan to cover with your assignment, separating 
 TBD: Detail any portion of the project leveraged from other coursework or using [components from previous semesters](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki) by yourself or others.
 
 # Source Code Organization
-TBD: Modify the content below
+TBD: Modify the content below:
+
 Buildroot or Yocto Repository will be hosted at [TBD]
+
 ApplicationX code will be hosted in in a repository at [TBD]
+
 We request X additional repositories for application Y and Z.
 
 # Group Overview
