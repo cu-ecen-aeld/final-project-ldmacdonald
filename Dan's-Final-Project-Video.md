@@ -10,13 +10,13 @@ The video demonstrates:
 * Connect to widget X using widget Y
 * Show feature Z of Widget X
 
-# Challenges
+## Challenges
 My most difficult challenge when implementing this project were:
 * Challenge 1
 * Challenge 2
 * ...
 
-# Lessons Learned
+## Lessons Learned
 The most important topics I learned from this project were:
 * Lesson 1
 * Lesson 2
