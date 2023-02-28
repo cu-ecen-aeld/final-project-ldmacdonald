@@ -9,7 +9,7 @@ Include at least one block diagram showing all hardware components and interacti
 TBD: Mention whether you plan to use buildroot or Yocto.
 
 # Hardware Platform
-TBD: Mention hardware platform you plan to use.  Include additional detail about how you plan to support with your build platform, including links to relevant documentation, if not in the list of currently [Supported Hardware](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki/Supported-Hardware).
+TBD: Mention hardware platform you plan to use.  Include additional detail about how you plan to support with your build platform, including links to relevant documentation, if not in the list of currently [Supported Hardware](https://github.com/cu-ecen-aeld/aesd-assignments/wiki/Supported-Hardware-Platforms).
 
 TBD: Mention the number and type of boards you would like to borrow from the department for your project or if you plan to source the hardware yourself.
 
