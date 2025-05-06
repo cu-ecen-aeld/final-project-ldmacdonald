@@ -1,7 +1,7 @@
 TBD: Fill in all sections below, Writing "N/A" if a section is not applicable to your project.
 
 # Overview
-
+![Flow Diagram](./Flow_Diagram.png)
 Vending platform: trackable, identity integrated, stock management integrated remotely, specifically for governance relevant industries
 
 
