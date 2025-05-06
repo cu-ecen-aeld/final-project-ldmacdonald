@@ -22,7 +22,7 @@ Display: NHD-0216BZ-RN-YBW [link](https://www.digikey.com/en/products/detail/new
 
 
 # Open Source Projects Used
-TBD: Mention any open source project content you intend to use with the project, beyond the base platform buildroot/yocto packages already used in assignments.
+N/A
 
 # Previously Discussed Content
 Repurposing portions of aesd-socket 
@@ -32,20 +32,20 @@ Repurposing web server from another class
 Hardware integration, remote identity management, 
 
 # Shared Material
-TBD: Detail any portion of the project leveraged from other coursework or using [components from previous semesters](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki) by yourself or others.
+N/A
 
 # Source Code Organization
 TBD: Modify the content below:
 
-Buildroot or Yocto Repository will be hosted at [TBD]
+Buildroot or Yocto Repository will be hosted at [Project Repo](https://github.com/ldmacdonald/ECEA-5307_Projects)
 
-ApplicationX code will be hosted in in a repository at [TBD]
+Identity Mock code will be hosted in a repository at [Identity Mock Repo](https://github.com/ldmacdonald/ECEA-5307_Projects](https://github.com/ldmacdonald/ECEA-5307-Identity-Mock))
 
-We request X additional repositories for application Y and Z.
+Hardware Integration code will be hosted in a repository at [Hardware Integration Repo](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration)
 
 ## Team project members:
 
 Dale MacDonald, sole contributor
 
 # Schedule Page
-TBD: Include link to shared schedule wiki page below.
+[Schedule](./Schedule.md)
