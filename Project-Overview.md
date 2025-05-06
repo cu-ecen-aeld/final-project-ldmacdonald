@@ -1,11 +1,12 @@
 TBD: Fill in all sections below, Writing "N/A" if a section is not applicable to your project.
 
 # Overview
+
 Vending platform: trackable, identity integrated, stock management integrated remotely, specifically for governance relevant industries
 
 
 # Target Build System
-This project will be built leveraging Yocto
+This project will be built leveraging Buildroot
 
 # Hardware Platform
 Raspberry Pi 3 Model B Plus Rev 1.3
