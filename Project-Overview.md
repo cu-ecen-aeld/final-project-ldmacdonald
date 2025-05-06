@@ -1,9 +1,8 @@
-TBD: Fill in all sections below, Writing "N/A" if a section is not applicable to your project.
-
 # Overview
 ![Flow Diagram](./Flow_Diagram.JPG)
-Vending platform: trackable, identity integrated, stock management integrated remotely, specifically for governance relevant industries
 
+The project is a Proof of Concept for a traceable vending platform integrating with an external identity provider and other relevant APIs to ensure proper tracking and stockkeeping functionalities while still supporting disconnected operations.
+Would also have applications in governance relevant industries such as medical supply dispensing.
 
 # Target Build System
 This project will be built leveraging Buildroot
