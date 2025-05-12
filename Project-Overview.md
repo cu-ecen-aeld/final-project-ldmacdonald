@@ -48,3 +48,7 @@ Dale MacDonald, sole contributor
 
 # Schedule Page
 [Schedule](./Schedule.md)
+
+# Blockers Identified
+
+None identified at this time
