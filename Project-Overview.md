@@ -38,7 +38,7 @@ TBD: Modify the content below:
 
 Buildroot or Yocto Repository will be hosted at [Project Repo](https://github.com/ldmacdonald/ECEA-5307_Projects)
 
-Identity Mock code will be hosted in a repository at [Identity Mock Repo](https://github.com/ldmacdonald/ECEA-5307_Projects](https://github.com/ldmacdonald/ECEA-5307-Identity-Mock))
+Identity Mock code will be hosted in a repository at [Identity Mock Repo](https://github.com/ldmacdonald/ECEA-5307-Identity-Mock))
 
 Hardware Integration code will be hosted in a repository at [Hardware Integration Repo](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration)
 
