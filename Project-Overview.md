@@ -38,6 +38,8 @@ TBD: Modify the content below:
 
 Buildroot or Yocto Repository will be hosted at [Project Repo](https://github.com/ldmacdonald/ECEA-5307_Projects)
 
+Vending Machine code will in a repository at [Vending Machine Repo](https://github.com/ldmacdonald/ECEA-5307-Vending_Machine)
+
 Identity Mock code will be hosted in a repository at [Identity Mock Repo](https://github.com/ldmacdonald/ECEA-5307-Identity-Mock)
 
 Hardware Integration code will be hosted in a repository at [Hardware Integration Repo](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration)
