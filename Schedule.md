@@ -15,8 +15,8 @@ Dale MacDonald
 | Sprint 2     | ✔️  | Dale              | [Set up Hardware Integration Actions runner](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/1) |
 | Sprint 2     | ✔️  | Dale              | [Research Raspberry Pi GPIO integration](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/2) |
 | Sprint 2     | ✔️  | Dale              | [Hardware integrates with Raspberry Pi](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/3) |
-| Sprint 3     | :x:  | Dale              | [Vending machine code interacts with console](https://github.com/ldmacdonald/ECEA-5307-Vending_Machine/issues/2) |
-| Sprint 3     | :x:  | Dale              | [Vending Machine runs from the console](https://github.com/ldmacdonald/ECEA-5307_Projects/issues/3) |
+| Sprint 3     | :x:  | Dale              | [Vending machine code workflow](https://github.com/ldmacdonald/ECEA-5307-Vending_Machine/issues/2) |
+| Sprint 3     | :x:  | Dale              | [Vending Machine works with hardware input](https://github.com/ldmacdonald/ECEA-5307_Projects/issues/3) |
 | Sprint 3     | :x:  | Dale              | [Hardware Flow Completed](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/4) |
 
 | Sprint 3     | :x:  | Dale              |  |
