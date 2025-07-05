@@ -12,7 +12,7 @@ Dale MacDonald
 | Sprint 1     | ✔️  | Dale              | [Create Identity Mock Image](https://github.com/ldmacdonald/ECEA-5307-Identity-Mock/issues/2) |
 | Sprint 1     | ✔️  | Dale              | [Vending Machine GitHub Actions Runner Setup](https://github.com/ldmacdonald/ECEA-5307-Vending_Machine/issues/1) |
 | Sprint 2     | ✔️  | Dale              | [Deploy Identity Mock Image](https://github.com/ldmacdonald/ECEA-5307-Identity-Mock/issues/3) |
-| Sprint 2     | ➕  | Dale              | [Set up Hardware Integration Actions runner](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/1) |
+| Sprint 2     | ✔️  | Dale              | [Set up Hardware Integration Actions runner](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/1) |
 | Sprint 2     | ✔️  | Dale              | [Research Raspberry Pi GPIO integration](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/2) |
 | Sprint 2     | ➕  | Dale              | [Vending machine code interacts with console](https://github.com/ldmacdonald/ECEA-5307-Vending_Machine/issues/2) |
 | Sprint 3     | :x:  | Dale              | [Hardware integrates with Raspberry Pi](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/3) |
