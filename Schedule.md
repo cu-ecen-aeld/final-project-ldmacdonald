@@ -19,5 +19,6 @@ Dale MacDonald
 | Sprint 3     | :x:  | Dale              | [Vending Machine works with hardware input](https://github.com/ldmacdonald/ECEA-5307_Projects/issues/3) |
 | Sprint 3     | :x:  | Dale              | [Hardware Flow Completed](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/4) |
 | Sprint 3     | :x:  | Dale              | [Hardware Integration script integrated into buildroot](https://github.com/ldmacdonald/ECEA-5307-Hardware_Integration/issues/5) |
+| Sprint 3     | :x:  | Dale              | [Vending Machine integrated into buildroot](https://github.com/ldmacdonald/ECEA-5307_Projects/issues/4) |
 
 | Sprint 3     | :x:  | Dale              |  |
