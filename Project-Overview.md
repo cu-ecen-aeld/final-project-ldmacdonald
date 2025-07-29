@@ -35,7 +35,11 @@ N/A
 
 # Future Work
 Refactor Python Hardware Integration code into C/C++, Python isn't handled well for Buildroot and daemons
+
 Integrate Refactored Hardware Integration code into Vending Machine service, keeping it over-complicated the work
+
+Implement core Vending Machine service correctly with stock keeping functionality, i.e. database integration
+
 Implement barcode scanner, determined as a nice to have not a need to have for PoC
 
 # Source Code Organization
